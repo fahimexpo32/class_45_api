@@ -9,8 +9,12 @@ import Foundation
 
 struct JsonModel {
     var tempShow: Double
+    var cityName: String
+    var hazeM: String
+    var humidityM: Int
+    var speedMphM: Double
     
-
+    
 }
 
 

@@ -55,6 +55,6 @@ struct Weather: Codable {
     let icon: String
     
     
-   	
+    
     
 }
